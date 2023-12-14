@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:sahilkathpal.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:sahilkathpal.github.io#13f43cb71f169bbd211517d880d2f5da6c934a15e8da2ff93f4194723425a3cf",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:sahilkathpal.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "NBf5TgkicTpJZgY5UzT6SGgJ8NG5tBO0l7bjhM8v_1I=",
+        "y": "PRE1Nt_85t_i_cpVQQ50tKURfmOZzAZBN1pVwDLWWJs=",
+        "kid": "13f43cb71f169bbd211517d880d2f5da6c934a15e8da2ff93f4194723425a3cf",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
