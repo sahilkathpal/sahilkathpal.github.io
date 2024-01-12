@@ -6,15 +6,15 @@
   "id": "did:web:sahilkathpal.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:sahilkathpal.github.io#5c7ec02ff56dc8dcf80019261238fc6f22ca219e1012d758969deb0cde027c15",
+      "id": "did:web:sahilkathpal.github.io#bd1ada09aed98a75df3c267a9a9eabdfba507f1ae22bfe40fdd74cf807aa6665",
       "type": "JsonWebKey2020",
       "controller": "did:web:sahilkathpal.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "4_bKfeEZesMUySUTfyR4LtjGZEuhWCdif6fAjRlSkLU=",
-        "y": "4v6qr3AIJ8Yuw1eTjt0a-5YVE2cBHpCf95z40Huagqo=",
-        "kid": "5c7ec02ff56dc8dcf80019261238fc6f22ca219e1012d758969deb0cde027c15",
+        "x": "qkHIeRVRYD06SOHfmJIOSHEbNdVMcfTvU0CsHHDryOc=",
+        "y": "TD6Vd2k_737F2rpLEIfw14yDl9wO2eC5r885HNvtB-I=",
+        "kid": "bd1ada09aed98a75df3c267a9a9eabdfba507f1ae22bfe40fdd74cf807aa6665",
         "alg": "ES256"
       }
     }
